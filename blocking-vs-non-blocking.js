@@ -1,5 +1,5 @@
-//blocking
+//blocking Sync
 
 
 
-//non-blocking
+//non-blocking Async
