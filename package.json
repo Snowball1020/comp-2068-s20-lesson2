@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Snowball1020/comp-2068-s20-lesson2#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
